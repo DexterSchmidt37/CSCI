@@ -1,0 +1,2 @@
+# CSCI
+Stuff for CSCI
